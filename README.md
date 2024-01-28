@@ -1,5 +1,5 @@
 # ATM-Hesap-Sistemi
-ATM Account System
+
 Bu C dilinde yazılmış basit bir ATM hesap sistemi örneğidir. Bu program, kullanıcının bakiye sorgulama ve para yatırma işlemlerini gerçekleştirmesine olanak tanır. Ayrıca, kullanıcı 'E', 'e', 'q' veya 'Q' tuşlarına basarak sistemden çıkabilir.
 
 ## Kullanım
